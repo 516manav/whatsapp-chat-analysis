@@ -1,4 +1,4 @@
-# 📊 WhatsApp Chat Analysis
+# 📊 ChatSight - WhatsApp Chat Analysis
 
 Analyze WhatsApp group chats to uncover trends, user activity, and message patterns using Python and data visualization.
 
