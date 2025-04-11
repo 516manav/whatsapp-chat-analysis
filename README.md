@@ -20,12 +20,12 @@ Analyze WhatsApp group chats to uncover trends, user activity, and message patte
 
 ## 📂 Folder Structure
 
-whatsappchat_analysis/ 
+<pre> whatsappchat_analysis/ 
   ├── whatsapp-chat-data.txt # Sample WhatsApp export 
   ├── whatsapp-data-analysis.ipynb # Main analysis notebook 
   ├── index.html # HTML report 
   ├── .gitignore 
-  └── README.md
+  └── README.md </pre>
 
 
 ## 📌 How to Use
